@@ -1,0 +1,8 @@
+{
+  "readme": "README.md",
+  "name": "react-typedoc-example",
+  "out": "docs",
+  "tsconfig": "tsconfig.json",
+  "includes": "src",
+  "mode": "file"
+}
